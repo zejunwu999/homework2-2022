@@ -71,11 +71,11 @@ div.blue{
     color: #000000;
 }
 
-h2.yellow {
+div.yellow h2 {
     text-shadow: 2px 4px #c7e2c7 !important;
 }
 
-.green{
+div.green{
     background: #008500;
     text-align: left;
     margin-right: 50px;
@@ -93,12 +93,11 @@ span{
 footer{
     background: linear-gradient(90deg,#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     text-align: center;
-    padding: none;
-    padding-right: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 footer p {
     font-size: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
